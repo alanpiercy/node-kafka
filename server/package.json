@@ -1,0 +1,19 @@
+{
+  "name": "node-kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ip": "^1.1.0",
+    "ip": "^1.1.5",
+    "kafkajs": "^1.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
